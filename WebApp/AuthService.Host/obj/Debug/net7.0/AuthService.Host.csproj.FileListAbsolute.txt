@@ -1,0 +1,6 @@
+C:\CODE\C#\WebApp\AuthService.Host\obj\Debug\net7.0\AuthService.Host.csproj.AssemblyReference.cache
+C:\CODE\C#\WebApp\AuthService.Host\obj\Debug\net7.0\AuthService.Host.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\C#\WebApp\AuthService.Host\obj\Debug\net7.0\AuthService.Host.AssemblyInfoInputs.cache
+C:\CODE\C#\WebApp\AuthService.Host\obj\Debug\net7.0\AuthService.Host.AssemblyInfo.cs
+C:\CODE\C#\WebApp\AuthService.Host\obj\Debug\net7.0\AuthService.Host.csproj.CoreCompileInputs.cache
+C:\CODE\C#\WebApp\AuthService.Host\obj\Debug\net7.0\AuthService.Host.MvcApplicationPartsAssemblyInfo.cache
