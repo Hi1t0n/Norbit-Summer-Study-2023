@@ -1,5 +1,0 @@
-C:\CODE\C#\WebApp\AuthService.Infrastructure\obj\Debug\net7.0\AuthService.Infrastructure.csproj.AssemblyReference.cache
-C:\CODE\C#\WebApp\AuthService.Infrastructure\obj\Debug\net7.0\AuthService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
-C:\CODE\C#\WebApp\AuthService.Infrastructure\obj\Debug\net7.0\AuthService.Infrastructure.AssemblyInfoInputs.cache
-C:\CODE\C#\WebApp\AuthService.Infrastructure\obj\Debug\net7.0\AuthService.Infrastructure.AssemblyInfo.cs
-C:\CODE\C#\WebApp\AuthService.Infrastructure\obj\Debug\net7.0\AuthService.Infrastructure.csproj.CoreCompileInputs.cache
